@@ -5,6 +5,7 @@ Meta.AppConfigId=71ef987e-7854-4f47-95a9-7046daff3271
 Meta.ConfigManifest=uptimeconfig.json
 Meta.MetaConfigManifest=uptimemetaconfig.json
 Meta.ConfigRoot=uptime.kvp
+Meta.DisplayImageSource=steam:4813880
 App.DisplayName=Uptime
 App.RootDir=./uptime/
 App.WorkingDir=5053430
