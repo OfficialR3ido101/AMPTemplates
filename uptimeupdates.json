@@ -1,13 +1,5 @@
 [
   {
-    "UpdateStageName": "Steamworks SDK Redist",
-    "UpdateSourcePlatform": "Linux",
-    "UpdateSource": "SteamCMD",
-    "UpdateSourceData": "1007",
-    "UpdateSourceArgs": "",
-    "OverwriteExistingFiles": true
-  },
-  {
     "UpdateStageName": "Server Download",
     "UpdateSourcePlatform": "Linux",
     "UpdateSource": "SteamCMD",
