@@ -1,10 +1,22 @@
 [
-   {
-       "UpdateStageName": "Server Download",
-       "UpdateSourcePlatform": "Linux",
-       "UpdateSource": "SteamCMD",
-       "UpdateSourceData": "5053430",
-       "UpdateSourceArgs": "",
-       "OverwriteExistingFiles": true
-    }
+  {
+    "UpdateStageName": "Server Download",
+    "UpdateSourcePlatform": "Linux",
+    "UpdateSource": "SteamCMD",
+    "UpdateSourceData": "5053430",
+    "UpdateSourceArgs": "",
+    "OverwriteExistingFiles": true
+  },
+  {
+    "UpdateStageName": "Make start script executable",
+    "UpdateSourcePlatform": "Linux",
+    "UpdateSource": "SetExecutableFlag",
+    "UpdateSourceArgs": "5053430/start_server.sh"
+  },
+  {
+    "UpdateStageName": "Make server binary executable",
+    "UpdateSourcePlatform": "Linux",
+    "UpdateSource": "SetExecutableFlag",
+    "UpdateSourceArgs": "5053430/uptime-server"
+  }
 ]
