@@ -25,6 +25,7 @@ Meta.ConfigVersion=1
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
 Meta.AppConfigId=3106979c-89c5-4770-a3d1-48eca2741922
+AllowAnonymous=true
 
 App.DisplayName=Uptime
 App.RootDir=./uptime/
