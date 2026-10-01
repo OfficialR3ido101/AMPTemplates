@@ -1,0 +1,5 @@
+[
+  { "Port": 27015, "Protocol": "UDP", "Name": "Steam Port", "Description": "Steam port", "Ref": "SteamPort" },
+  { "Port": 27016, "Protocol": "UDP", "Name": "Query Port", "Description": "Query / server browser", "Ref": "QueryPort" },
+  { "Port": 9875,  "Protocol": "TCP", "Name": "HTTP API", "Description": "Loopback API, don't forward", "Ref": "HttpPort" }
+]
